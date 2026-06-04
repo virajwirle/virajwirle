@@ -13,6 +13,7 @@ Currently pursuing Electronics & Telecommunication Engineering at Vidyalankar In
 ## Projects
 
 ### MeetAI — AI Video Meeting Assistant
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/MeetAI)
 
 AI-powered meeting intelligence platform for YouTube videos and meeting recordings.
 
@@ -22,6 +23,8 @@ AI-powered meeting intelligence platform for YouTube videos and meeting recordin
 * Tech: FastAPI, React, LangChain, Whisper, Mistral, ChromaDB, SQLite
 
 ### Multi-Agent Research Automation System
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/virajwirle/multi-agent-research-project)
+
 
 Autonomous research assistant that searches, reads, writes, and critiques reports.
 
@@ -38,16 +41,21 @@ Autonomous research assistant that searches, reads, writes, and critiques report
 
 ## Tech Stack
 
-**Languages:** Python, Java, SQL, JavaScript
-
-**AI/ML & GenAI:** LangChain, LangGraph, RAG, LLMs, Whisper, Mistral, Gemini, ChromaDB, PyTorch, TensorFlow, Scikit-learn, EfficientNet
-
-**Backend:** FastAPI, Node.js, Express.js
-
-**Frontend:** React.js, Streamlit, HTML, CSS, JavaScript
-
-**Databases:** MongoDB, MySQL, SQLite
-
-**DevOps & Cloud:** Docker, GitHub Actions, AWS, GCP, CI/CD
-
-**Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook
+<p align="left">
+<img src="https://skillicons.dev/icons?i=
+python,
+java,
+javascript,
+react,
+nodejs,
+fastapi,
+mongodb,
+mysql,
+docker,
+git,
+github,
+aws,
+tensorflow,
+pytorch
+" />
+</p>
