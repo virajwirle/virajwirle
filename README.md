@@ -42,5 +42,5 @@ Autonomous research assistant that searches, reads, writes, and critiques report
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi,mongodb,mysql,docker,git,github,aws,tensorflow,pytorch,langchain,langraph" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,tensorflow,pytorch,langchain,langraph" />
 </p>
