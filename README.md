@@ -1,6 +1,6 @@
 # About
 
-Building AI systems at the intersection of GenAI, Agentic AI, and full-stack engineering. I develop production-style applications using LangChain, LangGraph, Whisper, ChromaDB, FastAPI, and React, with a focus on transforming AI prototypes into usable products.
+Aspiring AI Engineer building production-ready applications at the intersection of GenAI, Agentic AI, and full-stack engineering. Experienced with LangChain, LangGraph, RAG, FastAPI, ChromaDB, Whisper, and React. Passionate about building intelligent, scalable AI systems that turn ideas into real-world products.
 
 Currently pursuing Electronics & Telecommunication Engineering at Vidyalankar Institute of Technology, Mumbai. Interested in Retrieval-Augmented Generation, Multi-Agent Systems, cloud-native AI deployment, and the engineering challenges behind scalable AI products.
 
@@ -42,5 +42,5 @@ Autonomous research assistant that searches, reads, writes, and critiques report
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,tensorflow,pytorch,langchain,langraph" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,huggingface,pytorch,langchain,langraph" />
 </p>
