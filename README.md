@@ -41,8 +41,6 @@ Autonomous research assistant that searches, reads, writes, and critiques report
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,huggingface,pytorch" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,pytorch" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
 </p>
